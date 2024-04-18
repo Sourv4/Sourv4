@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning lua / python
 - 📫 How to reach me discord wer3_
-- 
+- 🇵🇸  improving python skills
